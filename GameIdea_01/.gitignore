@@ -1,0 +1,40 @@
+# =========================
+# Unity generated folders
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+
+# =========================
+# IDE / Editor settings
+# =========================
+.vscode/
+.idea/
+.vs/
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Crash reports
+# =========================
+sysinfo.txt
+
+# =========================
+# Optional (safe to ignore)
+# =========================
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.booproj
+*.svd
